@@ -12,6 +12,7 @@ error_ellipse.m
 Fisherextest.m
 GenCalcHFEps.m
 GenOrthogComps.m
+isfile.m
 LDA.m
 license.txt
 myBinomTest.m
@@ -29,9 +30,12 @@ solve_MFX_REML.m
 spear.m
 sshfrommatlab*
 student_range_stat.m
+strsplit.m
 tmcomptest.m
 WienerScalart96.m
 
 
 *~
 #*#
+*.asv
+.DS_Store
